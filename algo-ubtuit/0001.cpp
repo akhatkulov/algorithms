@@ -1,3 +1,5 @@
+/* O`lchami x bo`lgan kubik berilgan uni hajmini toping. */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
