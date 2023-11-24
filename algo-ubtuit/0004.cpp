@@ -1,3 +1,5 @@
+/* Radiusi r bo`lgan sharning yuzini toping. */
+
 #include <iostream>
 #include <cmath>
 
