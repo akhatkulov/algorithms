@@ -1,3 +1,5 @@
+/* a,b va c tamonli uch burchak berilgan. Uchburchakning yarim perimetri topilsin. */
+
 #include <iostream>
 
 using namespace std;
