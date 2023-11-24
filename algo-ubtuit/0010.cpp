@@ -1,3 +1,5 @@
+/* Jo`mrakdan 1 s da 1 milli litr suv tomsa x yilda necha litr suv tomadi. */
+
 #include <iostream>
 
 using namespace std;
