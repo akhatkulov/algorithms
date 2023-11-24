@@ -1,3 +1,5 @@
+/* Tezligi v bo`lgan avtomabil s masofani qancha vaqtda bosib o`tadi. */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
