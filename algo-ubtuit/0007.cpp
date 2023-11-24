@@ -1,3 +1,5 @@
+/* Konusni balandligi h va radiusi r bo`lsa uni hajmi nimaga teng bo`ladi. */
+
 #include <iostream>
 #include <cmath>
 using namespace std;
