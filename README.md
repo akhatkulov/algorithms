@@ -6,5 +6,5 @@
 
 <h4>Agar kodimnini biror qismiga tushunmasangiz, menga aloqaga chiqing!</h4>
 
-<h3><b>💬Bog'lanish uchun: <a href="https://www.instagram.com/thewind.dev/">Instagram </a> | <a href="https://t.me/Akhatkulov"> Telegram </a>  " </b> </h3>
+<h3><b>💬Bog'lanish uchun: <a href="https://www.instagram.com/thewind.dev/">Instagram </a> | <a href="https://t.me/Akhatkulov"> Telegram </a>  </b> </h3>
 
