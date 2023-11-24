@@ -1,3 +1,5 @@
+/* 1 dan n gacha sonlar berilgan. Berilgan sonlarni yig`indisini toping. */
+
 #include <iostream>
 
 using namespace std;
