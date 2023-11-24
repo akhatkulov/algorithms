@@ -1,4 +1,4 @@
-/* Radiuslari r1, r2, r3 bo’lgan 3 to doira radiuslari berilgan. Doiralarni yuzlarini hisoblang. */
+/* Yuzasi s va balandligi h bo`lgan uch burchak berilgan. Uni asosini toping.*/
 
 #include <iostream>
 using namespace std;
