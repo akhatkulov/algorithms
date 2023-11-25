@@ -6,3 +6,21 @@
 Напишите программу, возводящую число, оканчивающееся на 5, в квадрат для того, чтобы Вася смог проверить свои навыки.
 */
 
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main(){
+    int a,b;
+    string k;
+    cin>>a;
+    if(a<10){
+        cout<<a*a;
+    }else{
+        b = a/10;
+        b = b*(b+1);
+        k = to_string(b);
+        cout<<k+"25";
+    }
+    return 0;
+}
