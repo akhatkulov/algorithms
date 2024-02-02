@@ -1,3 +1,6 @@
+//        long long lcm = (long long)x * y / std::__gcd(x, y); bu formula 
+
+
 #include <iostream>
 #include <numeric>
 using namespace std;
