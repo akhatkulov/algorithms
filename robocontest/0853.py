@@ -1,19 +1,7 @@
-def count_digits(n):
-    total_digits = 0
-    length = 1
-    current = 1
-    
-    while current <= n:
-        next_threshold = current * 10 - 1
-        if next_threshold > n:
-            next_threshold = n
-            
-        total_digits += (next_threshold - current + 1) * length
-        current *= 10
-        length += 1
-    
-    return total_digits
+a = input()
+x = int(input())
+s,m = a.split(":")
+s,m=int(s),int(m)
+res = (s*60)+m+x 
 
-
-n = int(input().strip())
-print(count_digits(n))
+print(str((res//60)%24).zfill(2),":",str((res%60)).zfill(2),sep="")
