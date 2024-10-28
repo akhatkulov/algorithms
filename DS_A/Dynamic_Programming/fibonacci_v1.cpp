@@ -1,3 +1,5 @@
+// Bu usul rekursiyaga asoslanib yechilgan!
+
 #include <iostream>
 #include <vector>
 
